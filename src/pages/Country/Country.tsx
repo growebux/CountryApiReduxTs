@@ -3,7 +3,7 @@ import React from "react";
 const Country = () => {
     return(
         <div>
-            Country Page
+            <p>Country Page</p>
         </div>
     )
 }

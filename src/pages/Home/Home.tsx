@@ -2,10 +2,10 @@ import React from "react";
 
 const Home=()=> {
     return(
-        <div>
-            Home Page
-        </div>
+        <div>Test</div>
+        
     )
+    
 }
 
 export default Home

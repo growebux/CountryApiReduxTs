@@ -6,8 +6,8 @@ import Country from './pages/Country/Country'
 const Router = () => (
 
     <Routes>
-        <Route path='/pages/home' element={<Home/>} />
-        <Route path='/pages/country' element={<Country/>}/>
+        <Route path='/pages/Home' element={<Home/>} />
+        <Route path='/pages/Country' element={<Country/>}/>
     
     </Routes>
 )
