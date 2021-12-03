@@ -6,7 +6,7 @@ import rootReducer  from './reducers'
 
 
 const initState={
-    testName: ''
+    testName: " "
 }
 
 export default function makeStore(initialState=initState){
